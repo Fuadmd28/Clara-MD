@@ -6,13 +6,13 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['6285760451683', 'Zeltoria', true]
+['628989513496', ',gz', true]
 ]
 global.mods = []
 global.prems = []
 // Info
 global.nomorwa = '6285760451683'
-global.author = '© Xyroinee'
+global.author = '© '
 global.namebot = '​Clara - MD'
 global.wm = '© Clara By Xyroine'
 global.stickpack = 'Clara - MD'
