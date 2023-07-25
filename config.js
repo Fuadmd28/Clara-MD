@@ -11,12 +11,12 @@ global.owner = [
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '6285760451683'
-global.author = '© '
-global.namebot = '​Clara - MD'
-global.wm = '© Clara By Xyroine'
-global.stickpack = 'Clara - MD'
-global.stickauth = '© Xyroine'
+global.nomorwa = '628989513496'
+global.author = '© Yahiko Jr'
+global.namebot = ''Yahiko Jr'
+global.wm = 'Yahiko Jr'
+global.stickpack = 'Yahiko Jr'
+global.stickauth = '© Yahiko Jr'
 // Link Sosmed
 global.sig = 'https://www.instagram.com/danilelistz02'
 global.sgh = 'https://github.com/Xyroinee'
