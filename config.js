@@ -13,7 +13,7 @@ global.prems = []
 // Info
 global.nomorwa = '628989513496'
 global.author = '© Yahiko Jr'
-global.namebot = ''Yahiko Jr'
+global.namebot = 'Yahiko Jr'
 global.wm = 'Yahiko Jr'
 global.stickpack = 'Yahiko Jr'
 global.stickauth = '© Yahiko Jr'
